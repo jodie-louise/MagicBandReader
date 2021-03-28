@@ -35,3 +35,4 @@ See diagram below
 2. Run the Magic band reader with `sudo python3 MagicBandReader.py`
 3. Tap a valid magic band (thats ID matches one in MagicBandIds.py) to the reader.
 4. It should work! 🐭🏰
+5. Run `sudo shutnown now` after working to ensure the Pi turns off safely (no green lights) before unplugging.
